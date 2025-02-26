@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RasyaAkbar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Mobile Development
-- 💞️ I’m looking to collaborate on interesting project
+- 💞️ I’m looking to collaborate on ANY interesting project
 - 📫 Reach me at rasyaakbarlptp@gmail.com
 - ⚡ Fun fact: i'm a cheapskate when it come to learn coding, always using youtube and nothing else
 
